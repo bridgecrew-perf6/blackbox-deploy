@@ -1,0 +1,6 @@
+[submodule "blackbox-api"]
+	path = blackbox-api
+	url = git@github.com:propeller-app/blackbox-api.git
+[submodule "blackbox-rpc"]
+	path = blackbox-rpc
+	url = git@github.com:propeller-app/blackbox-rpc.git
